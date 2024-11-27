@@ -1,6 +1,7 @@
+*.zip
 *.jpg
-*.json
 *.png
+*.tif
+*.json
 animals
 ARC-AGI-master
-*.tif
